@@ -1,2 +1,3 @@
 woshiyaowne
 this is fist master branch
+Creating a new branch is quick & simple.
